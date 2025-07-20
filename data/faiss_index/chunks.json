@@ -1,0 +1,466 @@
+[
+  {
+    "id": 0,
+    "text": "Testing PC performance can be complex and time -consuming. As an IT professional, you face \nunique challenges each day. You likely need to know how to:  \n\u2022 Standardize PC purchasing decisions based on performance. \u2022 Validate new hardware and Windows con\ufb01gurations to determine system stability. \u2022 Quantify the performance impact of OS image changes and application updates."
+  },
+  {
+    "id": 1,
+    "text": "\u2022 Identify poorly performing systems. \u2022 Test and measure the real -world performance of PCs against baselines. Standardizing your performance testing and reporting can help simplify these tasks and \nprocesses. That\u2019s where benchmarks come in  \nA benchmark tests how well a product performs a speci\ufb01c function and how that performance compares across similar products. Benchmarks provide a quantitative differentiator for PC \nperformance testing."
+  },
+  {
+    "id": 2,
+    "text": "A computer benchmarking program runs a series of well -de\ufb01ned tests to \nmeasure PC performance. A benchmarking program scores a PC system\u2019s performance of \ncommon tasks: the higher the score, the better the performance. Comparing benchmark scores is easier than comparing complex technical speci\ufb01cations, allowi ng for informed, rapid decisions \nto deliver PC performance, cut hardware costs and save testing time . A good benchmark has three important qualities  \nAccuracy: Consistently produces true and precise results. Relevance : Measures the most important performance elements."
+  },
+  {
+    "id": 3,
+    "text": "Neutrality : Is free of any product or vendor bias. Benchmarks at the enterprise IT level  \nBenchmarks support every stage in the life cycle of your PC assets, easing PC lifecycle \nmanagement for IT teams . Benchmarks provide support for:  \n\u2022 Planning and procurement  \no Simplify PC performance comparison and cost justi\ufb01cation  \n\u2022 Validation and standardization  \no Test and compare the performance of new PCs against user -de\ufb01ned baselines. \u2022 Operations and management  \no Efficiently automate remote performance testing to provide reliable insights and \nreporting  \n\u2022 Optimization or replacement  \no Make informed PC life -cycle decisions based on benchmark results stored in \nyour central database  \nWhich benchmark should I use? Benchmark tests are typically designed for a speci\ufb01c setting (home or office) and a certain class \nof device (desktop PC, laptop, tablet or smartphone)."
+  },
+  {
+    "id": 4,
+    "text": "Choose a benchmark that best matches the needs of your end users. For PCs for general office \nuse, choose a benchmark that measures PC performance with a comprehensive set of tests that \ncovers the wide variety of tasks performed in the modern workplace. You  can evaluate the overall \nperformance with the benchmark score, while sub -scores focus on performance for speci\ufb01c \nactivities. Common tests measure performance and battery life for everyday office productivity tasks and \nsuch digital content activities as : web browsing, video conferencing, time to start apps, working \nwith documents and spreadsheets  and video editing \n \nChoosing a reference benchmark score for RFPs  \nSetting a minimum benchmark score in a request for proposal (RFP) helps you judge the relative \nperformance and value of different systems  and  compare competing offers from your suppliers. Specifying performance with a benchmark score rather than a reference system gives your  \nsuppliers more freedom to con\ufb01gure cost -effective alternatives that you might not have  \notherwise considered."
+  },
+  {
+    "id": 5,
+    "text": "But what factors decide an appropriate minimum score? Start by testing \nyour existing systems. The Procyon user guide will help you produce accurate results. Benchmark \nold PCs that are ready to be replaced along with the new systems replacing them. The score \ncomparisons provide good baselines."
+  },
+  {
+    "id": 6,
+    "text": "If you\u2019re still shopping, ask a supplier to benchmark their \nsystems to see if they meet your performance needs and expe ctations . Procyon User Guide:  \nUL Procyon is a growing suite of benchmark tests for professional users in industry, enterprise, \ngovernment, retail and press roles. Each Procyon benchmark shares a common approach to \ndesign, user experience and features to better meet the needs of profess ional users. Each benchmark is designed for a speci\ufb01c use case and uses real applications where possible. UL works closely with its industry partners to ensure that every Procyon benchmark is accurate, \nrelevant and impartial."
+  },
+  {
+    "id": 7,
+    "text": "UL Procyon benchmarks combine the relevance of real apps with the convenience of a \nstandardized test that produces consistent, repeatable results every time. What\u2019s more, the UL \nProcyon benchmarks are also easy to install and run from the UL Procyon app or the command \nline with no complicated con\ufb01guration required. Each benchmark produces a score, with higher scores indicating better performance. You also get a sub -score for each test and \ufb01ne -grained workload metrics. You can compare up to four \nresults side by side in the app."
+  },
+  {
+    "id": 8,
+    "text": "You can export result \ufb01les to PDF for reporting or as XML \ufb01les for integration with other analysis tools. The UL Procyon benchmark suite has \ufb02exible licensing that lets you pick and choose the \nindividual benchmarks that best meet your needs. You can buy just one benchmark or add more \nin any combination. Start benchmarking with UL Procyon  \n\u2022 UL Procyon AI Computer Vision Benchmark for Windows  \n\u2022 UL Procyon Battery Life Benchmark  \n\u2022 UL Procyon Office Productivity Benchmark  \n\u2022 UL Procyon Photo Editing Benchmark  \n\u2022 UL Procyon Video Editing Benchmark  \n\u2022 UL Procyon AI Inference Benchmark for Android  \n\u2022 UL Procyon AI Image Generation Benchmark  \n \nActivate a Procyon benchmark license key  \nIn the application  \nYou must add a valid Procyon benchmark license key to the application before you can start \nbenchmarking. Your license key is provided with your purchase."
+  },
+  {
+    "id": 9,
+    "text": "If you have misplaced your \nlicense key, please  contact our sales team  for assistance. 1. Install the UL Procyon application on your PC. 2. Open the app."
+  },
+  {
+    "id": 10,
+    "text": "3. Click on the gear icon to open the  Options screen. 4. Enter your license key then click on the Register button. From the command line  \nYou can also  install the application  and  activate your license  from the command line."
+  },
+  {
+    "id": 11,
+    "text": "My Suite screen  \nThe My suite screen is the default view in the UL Procyon application. From here, you can see \nwhich Procyon benchmarks are installed and available to run with your license. Choose a benchmark  \nClick on a benchmark to open its benchmark details screen. Options \nClick on the gear icon in the top -right corner to open the  Options screen . Results Database  \nThe Results database screen shows a table of benchmark results saved on the current system."
+  },
+  {
+    "id": 12,
+    "text": "View a result  \nThere are several ways to view a result. \u2022 Double -click on a result to open the  Result screen . \u2022 Click on the checkbox in the leftmost column to select the result. Then select \"View \nresult\" from the \"Choose an action\" menu. \u2022 Click on the icon with the three dots in the rightmost column, then click on \"View result. \""
+  },
+  {
+    "id": 13,
+    "text": "Export a result \nYou can export your benchmark results in several formats:  \n\u2022 XML \u2014for further analysis or reporting in other tools. \u2022 PDF \u2014for reporting and recordkeeping. \u2022 Procyon result \ufb01le \u2014optionally choosing a new \ufb01le name and \ufb01le location. Compare results  \nClick on the checkbox in the leftmost column to select two or more results, (four maximum). Then choose \"Compare\" from the \"Choose an action\" menu to view the results on the  Result \nComparison  screen."
+  },
+  {
+    "id": 14,
+    "text": "You can compare up to four results side by side in the UL Procyon app. Import results  \n\nClick on the Import button to add a saved result \u2014such as a result from another system, for \nexample \u2014to the table. Remove results  \nClick on the checkbox in the leftmost column to select the result. Then select \"Delete\" from the \n\"Choose an action\" menu. Alternatively, click on the icon with the three dots in the rightmost column, then click on \n\"Delete.\""
+  },
+  {
+    "id": 15,
+    "text": "Note that these actions only remove the result from the table view. The result \ufb01le is not deleted \nfrom the system and can still be imported again if needed. Result screen  \nThe Result screen shows your benchmark score, detailed workload scores, hardware \nmonitoring charts and system details. Benchmark score  \nIn the top -left corner panel of the result screen, you see your benchmark score. The higher the \nscore, the better the performance."
+  },
+  {
+    "id": 16,
+    "text": "Beneath that are the model names of the CPU and GPU in \nthe system under test. Application versions  \nThe Application versions panel shows which versions of the third -party applications were used \nin the benchmark. There can be signi\ufb01cant performance differences between releases of applications. When \ncomparing benchmark scores from two or more systems, make sure all the results were \nobtained with the same application version. Detailed scores  \nThis section shows the sub -scores from the benchmark workload(s)."
+  },
+  {
+    "id": 17,
+    "text": "Buttons  \nBack  \nReturn to the main screen to choose and run another benchmark. Save to cloud  \nSave the result to the online results service on  3DMark.com . Your results are private by default \nand will not visible to other users. Show log  \nShow the activity log for the benchmark run for troubleshooting. Export as \ufb01le  \nSave the current benchmark result optionally choosing a new \ufb01le name and \ufb01le location."
+  },
+  {
+    "id": 18,
+    "text": "Export as PDF  \nSave the current benchmark result in a formatted PDF document for record -keeping or \nreporting. Export as XML  \nSave the current benchmark result as an XML \ufb01le for further analysis or reporting in other tools. Hardware monitoring  \nBelow the benchmark scores, you will \ufb01nd the monitoring section. The charts in this section show how CPU and GPU load, clock frequency and temperature changed during the benchmark \nrun. Click on the chart legend to see different measurements."
+  },
+  {
+    "id": 19,
+    "text": "Hover the mouse over the chart to see \nthe measured value. Markers  \nUse this toggle to show or hide the lines that mark the start of each workload. Show details  \nUse this toggle to expand or collapse the monitoring section. System information  \nThis section of the result screen shows the hardware speci\ufb01cation and other relevant \ninformation from the system under test. Some parts, such as drive details, can be expanded \nand collapsed by clicking on the arrow icon."
+  },
+  {
+    "id": 20,
+    "text": "Result comparison screen  \nYou can compare up to four results  from the same benchmark side by side in the app. In addition to the benchmark scores, test scores and workload metrics, you can also compare \nthe hardware monitoring charts and the system information  from each benchmark result. You can expand and collapse each section as needed. Highlight differences  \nUse this toggle to display or hide the effect that highlights the differences between the results. Export results  \nClick an export option to save the individual results in the chosen format together in a ZIP \ufb01le."
+  },
+  {
+    "id": 21,
+    "text": "Options screen  \n To open the Options screen, click on the gear icon in the top right corner of the app. General  \nWrite detailed log  \nThis setting enables detailed logging while the benchmark is running. It is disabled by default. Since detailed logging can affect your benchmark score, you should only use this setting when \nrequested to resolve a customer support request. Scan SystemInfo  \nSystemInfo is a component used in UL benchmarks to identify the hardware in your system or device."
+  },
+  {
+    "id": 22,
+    "text": "It does not collect any personally identi\ufb01able information. This option is selected by \ndefault. SystemInfo hardware monitoring  \nThis option controls whether SystemInfo monitors your CPU temperature, clock speed and \nother hardware information during the benchmark run. This option is selected by default. Support  \nWrite detailed log  \nThis option is disabled by default since it can affect performance."
+  },
+  {
+    "id": 23,
+    "text": "You should only use this \noption when instructed as part of resolving a support request. Version details  \nThis section shows the version number of the application, SystemInfo and the benchmarks. Check for updates  \nClick the button to see if there are updates available for the application and the benchmark \ntests. If a new version is available, you will be able to download and install it from this screen. License  \nYou must register a valid license key before you can use the benchmark."
+  },
+  {
+    "id": 24,
+    "text": "Enter your license key \ninto the box and press the Register button. Show key  \nClick the button to show your license key. Click the button again to hide your key. Unregister   \nClick the Unregister button to remove your license key, for example, to move a single -seat \nlicense to a different system. Proxy Settings  \n UL Procyon v2.6.1059 adds support for UL Procyon application to connect to the internet \nthrough proxy to con\ufb01rm licenses, update, and submit benchmark results."
+  },
+  {
+    "id": 25,
+    "text": "You can \ufb01nd \ufb01nd the \nproxy settings section in the bottom left corner of the UI options page. Setting proxy credentials for the \ufb01rst time  \nEnter the credentials as prompted by the text \ufb01elds & you should be greeted with a success \nmessage upon successful application of the proxy settings. Changing proxy credentials  \nPlease note that if you decide to change the proxy credentials. you must restart the application \nin order for the new settings to take effect. How to report UL Procyon benchmark scores  \n \nEach UL Procyon benchmark produces a score, which you can use to compare similar devices \nor systems."
+  },
+  {
+    "id": 26,
+    "text": "Scores from different Procyon benchmarks, such as Office Productivity and Photo \nEditing, are not comparable. P        \"The laptop computer scored 5,000 in the UL Procyon Office Productivity Benchmark.\" \u00cd        \"The laptop computer scored 5,000 in the UL Procyon benchmark.\" Always include details of the hardware setup you used to obtain the score. Be sure to include the operating system, system hardware, and the version numbers of the relevant third -party \napplications."
+  },
+  {
+    "id": 27,
+    "text": "You can \ufb01nd this information on the benchmark result screen . UL Procyon benchmarks use real applications whenever possible. Updates to those applications can affect your benchmark score. When comparing two or more systems, be sure \nto use the same version of each application on every system you test. Using UL Procyon benchmark scores in marketing material  \n\nYou must not disclose or publish UL Procyon benchmark results, nor may you use the UL logo or \nother UL assets in your sales and marketing materials, without prior, written permission from \nUL."
+  },
+  {
+    "id": 28,
+    "text": "Please contact UL.BenchmarkSales@ul.com  for details. Using UL Procyon benchmark scores in media reviews  \nWe provide complimentary UL Procyon licenses to members of the press working for \nestablished and reputable publications. Contact us at  UL.BenchmarkPress@ul.com to request \na license for your publication. Press can use our benchmark scores in their hardware reviews. We kindly ask you to include a link to  https://benchmarks.ul.com/  whenever you use our benchmarks in a review, feature or \nnews story."
+  },
+  {
+    "id": 29,
+    "text": "UL Procyon trademark  \nOn the \ufb01rst mention of UL Procyon in marketing text, such as an advertisement or product \nbrochure, please write \"UL Procyon\u00ae benchmarks\" to protect our trademark. For example:  \n\"We recommend UL Procyon\u00ae benchmarks.\" Please include our legal text in your small print. Procyon is a registered trademark of Futuremark Corporation, a UL Solutions company. UL Procyon Office Productivity Benchmark User Guide  \n \nOverview of UL Procyon Office Productivity Benchmark  \n \nThe UL Procyon Office Productivity Benchmark uses Microsoft Office apps to measure Windows \nPC and Apple Mac computer performance for office productivity work."
+  },
+  {
+    "id": 30,
+    "text": "The benchmark \nworkloads feature relevant, real -world tasks using Microsoft Word, Excel, PowerPoint and \nOutlook. This multi -platform benchmark combines the relevance of testing performance with the same \napps that office workers use every day with the convenience of a standardized test that \nproduces consistent, repeatable results. The Office Productivity Benchmark is simple to set up \nand run. The Windows PC benchmark can be run from the UL Procyon app or the command line. The Apple Mac benchmark can be installed and run from the Testdriver Cloud UI or the \ncommand line."
+  },
+  {
+    "id": 31,
+    "text": "The Office Productivity Benchmark is designed around common tasks from a typical day at the \noffice. The benchmark opens Excel sheets, PowerPoint presentations, Word documents and \nOutlook emails. These applications are running simultaneously as the focus mo ves from one \ntask to another. For example, the benchmark copies a chart from Excel and adds it to a \nPowerPoint slide. It takes text from one Word document and adds it to another."
+  },
+  {
+    "id": 32,
+    "text": "The benchmark focuses on measuring aspects of performance that affect the user experience, \nsuch as providing smooth interactions and processing large tasks quickly. UL Procyon benchmarks use real applications whenever possible. Updates to those \napplications can affect your benchmark score. When comparing two or more systems, be sure \nto use the same version of each application on every system you test. UL Procyon Office Productivity Benchmark system requirements  \nHere are the minimum system requirements for the UL Procyon Office Productivity Benchmark \nfor Windows PC and Apple Mac computers."
+  },
+  {
+    "id": 33,
+    "text": "Please note that the storage requirement does not \ninclude the space needed to install the Microsoft applications used in the benchmark. Windows PC system requirements  \nOS Windows 10, 64 -bit, version 2004 or later  \nProcessor  2 GHz dual -core CPU  \nMemory  4 GB  \nGraphics  DirectX 12  \nStorage  5 GB  \nApple Mac computer system requirements  \nOS macOS Monterey or later  \nMemory  4 GB  \nStorage  5 GB  \nRequired applications  \nThe UL Procyon Office Productivity Benchmark uses Microsoft Office applications to test and \nmeasure PC and Mac performance. The applications are not included with the benchmark. You \nmust install and activate licensed versions of the required applications o n every system you \nplan to test. The UL Procyon Office Productivity Benchmark is compatible with Microsoft Office 2019 (retail versions only), Microsoft Office 2021 and Microsoft 365 (including trial accounts)."
+  },
+  {
+    "id": 34,
+    "text": "Please note that  volume licensed versions of Office 2019 , such as Office Professional Plus \n2019, are not compatible with the UL Procyon Office Productivity Benchmark. Microsoft Word  \nMicrosoft Excel  \nMicrosoft PowerPoint  \nMicrosoft Outlook  \nReady for Windows 11 \nUL Procyon benchmarks are compatible with Windows 11. The Office Productivity Benchmark is \ncompatible with Microsoft Office 2021. Word test  \n \nThe Word test simulates a sales manager writing marketing material for the sales team. The \nworkload features common tasks such as loading and saving, cutting, copying, pasting and \nediting content and images, \ufb01nding and replacing text, inserting graphs fro m Excel, and \ncomparing documents."
+  },
+  {
+    "id": 35,
+    "text": "This test is available on both Windows PC and Apple Mac computers. Not included in scoring on Mac as opposed to Windows:   \n\u2022 Add Watermark  \n\u2022 Convert from PDF   \n\u2022 Embed \ufb01le   \n\u2022 Export to PDF   \n\u2022 Image effect  \nOffice Productivity Word score  \nThe Word test produces an Office Productivity Word score. A higher score indicates better performance. The scaling constant in the score formula is used to bring the score in line with the \ntraditional range for UL benchmarks. Word score = 3900 / geometric mean of  \nMeasures loading of the source and destination documents."
+  },
+  {
+    "id": 36,
+    "text": "Repeated 3 times. The source \ndocument has 12 pages and is 252 KB in size. The destination document has 75 pages and is \n971 KB in size. OfficeProductivityWordLoad result = geometric mean of  \n \nOfficeProductivityWordSave  \nMeasures saving of a document. Some of the save operations are repeated."
+  },
+  {
+    "id": 37,
+    "text": "Save sizes are from \n1.4 MB to 55 MB. Saving happens:  \n\u2022 After adding the table of contents and \ufb01rst edits. \u2022 After a new image is added. \u2022 After data has been copied from Excel and other edits. OfficeProductivityWordSave result = geometric mean of  \n \nOfficeProductivityWordCopyPaste  \nMeasures copy -pasting between documents."
+  },
+  {
+    "id": 38,
+    "text": "Copying 12 pages of text. Repeated 7 times. OfficeProductivityWordCopyPaste result = geometric mean of  \n \nOfficeProductivityWordCutPaste  \nMeasures cut pasting inside of a document. Copying from 4 to 10 pages per repeat. Repeated 7 \ntimes."
+  },
+  {
+    "id": 39,
+    "text": "OfficeProductivityWordCutPaste result = geometric mean of  \n \nOfficeProductivityWordAddWatermark  \nMeasures the adding of a watermark to a document. Repeated 5 times. The image resolution is \n4167 \u00d7 3334 \nOfficeProductivityWordAddWatermark result = geometric mean of  \n \nOfficeProductivityWordTableOfContents  \nMeasures creating and updating the table of content. Both creating and updating are repeated 5 \ntimes. Table of contents contains 168 entries."
+  },
+  {
+    "id": 40,
+    "text": "OfficeProductivityWordTableOfContents result = geometric mean of  \n \nOfficeProductivityWordAddImage  \nMeasures inserting an image into a document. New image for every measurement. Image resolutions are:  \n\u2022 3746 \u00d7 5617  \n\u2022 2922  \u00d7 3899 \n\u2022 3712  \u00d7 5568 \n\u2022 3640  \u00d7 5464 \n\u2022 3646 \u00d7 5568  \nOfficeProductivityWordAddImage result = geometric mean of  \n OfficeProductivityWordImageScale  \nMeasures scaling the 5 new images to the correct size for the page. OfficeProductivityWordImageScale result = geometric mean of  \n \nOfficeProductivityWordImageEffect  \nMeasures applying different effects to the 5 new images. \u2022 Blur  \n\u2022 Color temperature  \n\u2022 Film grain  \n\u2022 Pencil grayscale  \n\u2022 Texturizer  \n\u2022 Watercolor sponge  \nOfficeProductivityWordImageEffect result = geometric mean of  \n \nOfficeProductivityWordEmbedFile  \nMeasures embedding other documents into the Word document."
+  },
+  {
+    "id": 41,
+    "text": "Adds an Excel \ufb01le of about 6.0 \nMB in size and a PowerPoint \ufb01le of around 32 MB in size. OfficeProductivityWordEmbedFile result = geometric mean of  \n \nOfficeProductivityWordCopyFromExcel  \nMeasures time taken to copy data from Excel to the Word document. 5 copies are done. OfficeProductivityWordCopyFromExcel result = geometric mean of  \n OfficeProductivityWordExportToPdf  \nMeasures the time taken to export a PDF of the document. The output PDF size is 3.2 MB."
+  },
+  {
+    "id": 42,
+    "text": "OfficeProductivityWordExportToPdf result = time to taken to export to PDF  \nOfficeProductivityWordConvertFromPdf  \nMeasures time taken to convert a PDF document to a .docx document format. The new Word \ndocument size is 4.5 MB. OfficeProductivityWordConvertFromPdf result = time taken to convert PDF to .docx  \nOfficeProductivityWordFind  \nFind and highlight 4 different words or parts of words. Then \ufb01nd and replace 4 other words. OfficeProductivityWordFind result = geometric mean of  \n \nOfficeProductivityWordCompareDocuments  \nMeasures time taken to compare two documents."
+  },
+  {
+    "id": 43,
+    "text": "Where one document is the original and the \nother document is a modi\ufb01ed version of the original. Both documents are 494 pages and around \n1.2 MB in size. OfficeProductivityWordCompareDocuments result = time taken to compare two documents  \nOfficeProductivityWordAcceptComparison  \nMeasures time taken to accept all the changes resulting from the comparison. OfficeProductivityWordAcceptComparison result = time taken to accept changes  \n \nExcel test  \nThe Excel test simulates a \ufb01nancial officer performing calculations with several Excel \nworksheets. The workload features typical spreadsheet tasks like loading and saving, auto -\ncalculation, inserting data, copy and paste, sorting, using a pivot table, exporting to CSV and PDF, and using common formulas."
+  },
+  {
+    "id": 44,
+    "text": "This test is available on both Windows PC and Apple Mac \ncomputers. Not included in scoring on Mac as opposed to Windows:   \n\u2022 Export to PDF   \n\u2022 Solve Equations   \n\u2022 Format Table   \nOffice Productivity Excel score  \nThe Excel test produces an Office Productivity Excel score. A higher score indicates better \nperformance. The scaling constant in the score formula is used to bring the score in line with the \ntraditional range for UL benchmarks. Excel score = 7900 / geometric mean of  \n \nOfficeProductivityExcelEditCells,  \nOfficeProductivityExcelSortColumn,  \nOfficeProductivityExcelVoterAnalysis,  \nOfficeProductivityExcelUniquePairs,  \nOfficeProductivityExcelSolveEquations,  \nOfficeProductivityExcelPivotTable,  \nOfficeProductivityExcelCopyPaste,  \nOfficeProductivityExcelSave,  \nOfficeProductivityExcelLoad,  \nOfficeProductivityExcelFormatTable,  \nOfficeProductivityExcelLoadMortgage,  \nOfficeProductivityExcelModifyMortgage,  \nOfficeProductivityExcelVlookup,  \nOfficeProductivityExcelExportToPdf,  \nOfficeProductivityExcelSaveAsCsv  \nOfficeProductivityExcelEditCells  \nMeasure how long it takes to make minor manual changes to the worksheet."
+  },
+  {
+    "id": 45,
+    "text": "OfficeProductivityExcelSortColumn  \nMeasures sorting the Excel sheet by one column that is not a numerical column. The worksheet \nhas 150k rows. OfficeProductivityExcelVoterAnalysis  \nMeasures the time taken to fully recalculate the  VoterAnalysis -complete worksheet  that \ncontains large amount of data and its analysis. The worksheet consists mostly of simple \nformulas. It has 400k rows."
+  },
+  {
+    "id": 46,
+    "text": "OfficeProductivityExcelUniquePairs  \nPerforms calculation on a sheet that involves 60\u2019000 rows of IF(COUNTIFS(\u2026)) formula. OfficeProductivityExcelSolveEquations  \nThe  Evaluate  workbook is tested by launching a linear optimization problem solver that is \nde\ufb01ned in the workbook\u2019s macro. It solves the set of linear equations. The solve process is \ufb01rst performed with 2 workbooks open in the background, This is repeated \nfour times, with the \ufb01rst result dropped from the result calculation. Then all background workbooks are closed and the solve process is performed again."
+  },
+  {
+    "id": 47,
+    "text": "This is \nrepeated four times, with the \ufb01rst result dropped from the result calculation. OfficeProductivityExcelPivotTable  \nA pivot table is de\ufb01ned and created from a datasheet with several dozen rows and coumns. The \ndata entries for the pivot table are selected based on Excel\u2019s suggestions. OfficeProductivityExcelCopyPaste  \nAdditional data is copied and pasted to the end of the open worksheet. After that, the workbook \nis saved, closed, then opened again."
+  },
+  {
+    "id": 48,
+    "text": "This cycle repeats 5 times, increasing the amount of data \nbeing appended. The worksheet has 400k rows. OfficeProductivityExcelSave  \nThis score measures how long it takes to save the \ufb01le. The score is the geomean of 5 save iterations of a worksheet with 400k rows. OfficeProductivityExcelLoad  \nThis score measures how long it takes to load a large data \ufb01le."
+  },
+  {
+    "id": 49,
+    "text": "The score is the geomean of 5 \nload iterations using a worksheet with 400k rows. OfficeProductivityExcelFormatTable  \nMeasuring the time taken to format 400k rows of plain data as a table with headings. OfficeProductivityExcelLoadMortgage  \nMeasures much time it takes to open and recalculate the  cal_mortgage_30x.xlsm  \ufb01le. It \ncontains a rather small amount of data (~1050 rows by ~200 columns) but involves a lot of complex formulas that calculate all the variables for a mortgage for every month based on the \nstarting conditions. OfficeProductivityExcelModifyMortgage  \nPerforms copy -paste of data between Excel worksheets that results in reevaluating the \nformulas."
+  },
+  {
+    "id": 50,
+    "text": "The worksheet is ~1050 rows by ~200 columns. OfficeProductivityExcelVlookup  \nPerforms one million VLOOKUP operations on rows of data. The data is taken from one \nworksheet to another inside of a single workbook. OfficeProductivityExcelExportToPdf  \nMeasures how long it takes to export an Excel worksheet with charts to PDF format with \ncommon settings. The worksheet is not large and can \ufb01t on a single screen, but it is visually \nheavy, which results in a suitable load for the PDF renderer."
+  },
+  {
+    "id": 51,
+    "text": "OfficeProductivityExcelSaveAsCsv  \nMeasures how long it takes to export and save an Excel workbook with 400k rows and charts as CSV \ufb01le. PowerPoint test  \nThe PowerPoint test simulates a product manager making a project status presentation. The \nworkload loads a document, adds images, copies images and text, adds and previews \nanimations, merges content from other \ufb01les, saves the \ufb01le, and exports to PDF and video. This \ntest is available on both Windows PC and Apple Mac computers. Not included in scoring on Mac as opposed to Windows:   \n\u2022 Add animation   \n\u2022 Export video   \n\u2022 Merge   \nOffice Productivity PowerPoint score  \nThe PowerPoint test produces an Office Productivity PowerPoint score."
+  },
+  {
+    "id": 52,
+    "text": "A higher score indicates \nbetter performance. The scaling constant in the score formula is used to bring the score in line \nwith the traditional range for UL benchmarks. PowerPoint score =  3200 / geometric mean of  \n \nOfficeProductivityPowerpointLoad  \nOfficeProductivityPowerpointCopyFromWord  \nOfficeProductivityPowerpointAddImage  \nOfficeProductivityPowerpointAddAnimation  \nOfficeProductivityPowerpointSave  \nOfficeProductivityPowerpointMerge  \nOfficeProductivityPowerpointExportToPdf  \nOfficeProductivityPowerpointExportVideo  \nOfficeProductivityPowerpointAddVideo  \nOfficeProductivityPowerpointLoad  \nMeasures the loading of a presentation. It has 27 slides and the size is around 88 MB. Repeated \n6 times."
+  },
+  {
+    "id": 53,
+    "text": "The maximum value is dropped from the result calculation. OfficeProductivityPowerpointLoad result = geometric mean of  \n \nwhere the maximum value is dropped from the calculation. OfficeProductivityPowerpointCopyFromWord  \nMeasures copying of one paragraph of text from Word to a presentation. 9 times copied text \nover. OfficeProductivityPowerpointCopyFromWord result = geometric mean of  \n \nOfficeProductivityPowerpointAddImage  \nMeasures adding of an image to a presentation."
+  },
+  {
+    "id": 54,
+    "text": "Repeated 4 times. The image resolution is 5669 \n\u00d7 3896. OfficeProductivityPowerpointAddImage result = geometric mean of  \n \n \nwhere the maximum value is dropped from the calculation. OfficeProductivityPowerpointAddAnimation  \nMeasures adding of animation to a presentation. Repeated 4 times."
+  },
+  {
+    "id": 55,
+    "text": "Animations added are:  \n\u2022 PpEntryEffect.ppEffectRandomBarsHorizontal  \n\u2022 PpEntryEffect.ppEffectFlyFromBottom  \nOfficeProductivityPowerpointAddAnimation result = geometric mean of   \n \nOfficeProductivityPowerpointSave  \nMeasures saving of a presentation to a different location. The presentation is saved:  \n\u2022 After adding animation, size 82 MB  \n\u2022 After doing merge, size 5.9 MB  \n\u2022 After adding video, size 98 MB  \nEach save is repeated three times. OfficeProductivityPowerpointSave result = geometric mean of   \nwhere the maximum value from each of the three saves is dropped from the calculation. OfficeProductivityPowerpointMerge  \nMeasures merging of two presentations that have a common base and no con\ufb02icts. OfficeProductivityPowerpointMerge result = geometric mean of   \nOfficeProductivityPowerpointExportToPdf  \nMeasures exporting of presentation to PDF."
+  },
+  {
+    "id": 56,
+    "text": "Size of the output PDF is 1.0 MB  \nOfficeProductivityPowerpointExportToPdf result = time taken to export to PDF  \nOfficeProductivityPowerpointExportVideo  \nMeasures creating a video of the presentation. The size of the output video is 14 MB. Video is 3s per slide, includes some animations, transitions. Vertical resolution: 720, frame \nrate: 30fps, quality: 85  \nOfficeProductivityPowerpointExportVideo result = time taken to export the video  \nOfficeProductivityPowerpointAddVideo  \nMeasures adding video to a presentation. Repeated 4 times."
+  },
+  {
+    "id": 57,
+    "text": "Duration: 10s, resolution 3840 \u00d7 2160, frame rate: 23.98fps, data rate: 58423kbps  \nOfficeProductivityPowerpointAddVideo result = geometric mean of   \nwhere the maximum value is dropped from the calculation. Outlook test  \nThe Outlook test simulates a project manager using email. The workload includes tasks such as \ncreating emails, moving emails, searching for text within an email, saving attachments, making \nappointments, and backing up folders. This test is currently available on Windows PC. The Outlook data \ufb01le is 154 MB in size."
+  },
+  {
+    "id": 58,
+    "text": "It has 128 emails in the Inbox and 8 emails in Sent Items. Some emails include attachments:   \n\u2022 79 jpg images with sizes from 32 KB to 2.6 MB and a total size of 27.3 MB  \n\u2022 Excel document that is 7.3 MB  \n\u2022 PowerPoint document that is 4.4 MB  \n\u2022 Word document that is 8.5 MB  \nThe Outlook test does not use the network. Office Productivity Outlook score  \nThe Outlook test produces an Office Productivity Outlook score. A higher score indicates better \nperformance. The scaling constant in the score formula is used to bring the score in line with the \ntraditional range for UL benchmarks."
+  },
+  {
+    "id": 59,
+    "text": "Outlook score =  4300 / geometric mean of  \n  \nOfficeProductivityOutlookMoveMails  \nOfficeProductivityOutlookNewAppointment  \nOfficeProductivityOutlookSearchMails  \nOfficeProductivityOutlookBackup  \nOfficeProductivityOutlookWriteMail  \nOfficeProductivityOutlookSaveAttachments  \nOfficeProductivityOutlookMoveMails  \nMeasures moving 136 emails from imported data\ufb01le to empty pro\ufb01le. Repeated 7 times. OfficeProductivityOutlookMoveMails result = geometric mean of   \n \nwhere the maximum and minimum values are dropped from the calculation. OfficeProductivityOutlookNewAppointment  \nMeasures adding a new appointment with 3 attachments (Excel, PowerPoint and Word \ndocuments). Repeated 7 times."
+  },
+  {
+    "id": 60,
+    "text": "OfficeProductivityOutlookNewAppointment result = geometric mean of   \n \nwhere the maximum and minimum values are dropped from the calculation. OfficeProductivityOutlookSearchMails \nMeasures searching string from emails. Repeated 7 times. OfficeProductivityOutlookSearchMails result = geometric mean of  \n \nwhere the maximum and minimum values are dropped from the calculation. OfficeProductivityOutlookBackup  \nMeasures data archiving."
+  },
+  {
+    "id": 61,
+    "text": "Copies 128 mails and results in a 150MB data \ufb01le. Repeated 7 times. OfficeProductivityOutlookBackup result = geometric mean of  \n \nwhere the maximum and minimum values are dropped from the calculation. OfficeProductivityOutlookWriteMail  \nMeasures creating an email with 3 attachments (Excel, PowerPoint and Word documents). Repeated 7 times."
+  },
+  {
+    "id": 62,
+    "text": "OfficeProductivityOutlookWriteMail result = geometric mean of  \nwhere the maximum and minimum values are dropped from the calculation. OfficeProductivityOutlookSaveAttachments  \nMeasures saving attachments from all emails. Writes out 82 \ufb01les with a total size of 45MB. Repeated 7 times. OfficeProductivityOutlookSaveAttachments result = geometric mean of   \nMeasurements often contain variable number of high outliers."
+  },
+  {
+    "id": 63,
+    "text": "We eliminate them by applying k -\nmeans clustering to 3 clusters and dropping the highest cluster. How is the Office Productivity Benchmark score calculated? The UL Procyon Office Productivity Benchmark is designed around common tasks from a typical \nday at the office. The benchmark opens Excel sheets, PowerPoint presentations, Word \ndocuments and Outlook emails. These applications are running simultaneously as the focus \nmoves from one task to another."
+  },
+  {
+    "id": 64,
+    "text": "For example, the benchmark copies a chart from Excel and \nadds it to a PowerPoint slide. It takes text from one Word document and adds it to another. The benchmark focuses on measuring aspects of performance that directly affect the user \nexperience, such as providing smooth interactions and processing large tasks quickly. On Systems running Microsoft Windows, the Procyon office productivity benchmark produces \ntwo scores: an \u201cMP Score\u201d allowing comparison between systems running Windows and \nmacOS, and a Windows -only score that is also compatible with scores from Procyon offi ce \nproductivity versions 1.0 and 1.1. These two scores are not compatible with each other."
+  },
+  {
+    "id": 65,
+    "text": "Office Productivity Benchmark MP scoring (systems running Windows and macOS)  \nRunning the office productivity benchmark on macOS will only generate an MP score. Running \nthe office productivity benchmark on Windows will generate two scores, one of which is an MP \nscore. The Office Productivity MP score is a geometric mean of the score s from each workload. Office Productivity MP score =   \n\ufb02oor_to_thousands(geometric mean(Excel MP score, Word MP score, PowerPoint MP score))   \nOffice Productivity Benchmark scoring (only systems running Microsoft Windows)  \nThe UL Procyon Office Productivity Benchmark produces an Office Productivity score. A higher \nscore indicates better performance."
+  },
+  {
+    "id": 66,
+    "text": "The Office Productivity score is a geometric mean of the \nresults from the  Word , Excel , PowerPoint  and  Outlook  tests with weights applied\u2014 double \nweight is indicated by including a score twice in the score formula. Office Productivity score = geometric mean(  \n    Excel score,  \n    Excel score,  \n    Word score,  \n    Word score,  \n    PowerPoint score,  \n    PowerPoint score,  \n    Outlook score)  \nThe test score formulas are calibrated to produce an Office Productivity score of 5000 on the reference PC, which is a laptop computer with an 11th Generation Intel\u00ae Core \u2122 i5-1135G7 2400 \nMHz processor. Benchmark scores \nEach benchmark run produces a high -level benchmark score, mid -level test scores, and low -\nlevel workload metrics. The precision of UL Procyon benchmark scores is usually better than 3% when following the \nsteps outlined in this guide. This means that running the benchmark repeatedly on a \nconsistently performing system in a controlled environment will produce scores tha t fall within \na 3% range."
+  },
+  {
+    "id": 67,
+    "text": "A score may occasionally fall outside the margin of error since there are factors in modern, multitasking operating systems that cannot be controlled completely. There are also devices \nthat simply do not offer consistent performance due to their design. In  these cases, you should \nrun the benchmark multiple times, and take an average or a mode of the results. UL Procyon benchmarks use real applications whenever possible. Updates to those \napplications can affect your benchmark score."
+  },
+  {
+    "id": 68,
+    "text": "When comparing two or more systems, be sure \nto use the same version of each application on every system you test. UL Procyon Office Productivity Benchmark workload version history  \nA benchmark version number is speci\ufb01c to a test. Benchmark version numbers change rarely \nand only when absolutely necessary to accommodate changes in third -party applications or \nbug \ufb01xes. UL Procyon Office Productivity Benchmark v1.2  \nMay 2, 2023 \n\u2022 Added compatibility for systems running Apple macOS. The Procyon Office Productivity \nBenchmark on macOS uses workloads for Microsoft PowerPoint, Word, and Excel to \nmeasure performance."
+  },
+  {
+    "id": 69,
+    "text": "\u2022 On Systems running Microsoft Windows, the Procyon Office Productivity Benchmark now produces two scores: a Windows -only score that is compatible with scores from \nprevious versions of Procyon Office Productivity, and an \u201cMP Score\u201d for comparison \nbetween sys tems running Windows and macOS. UL Procyon Office Productivity Benchmark v1.1  \nMarch 7, 2023 \n\u2022 Updated to target .NET 4.8 and Visual Studio C++ 2022. \u2022 This benchmark will no longer run in an elevated state. This may reduce scores on \nsystems using 9th generation Intel CPUs or older. UL Procyon Office Productivity Benchmark v1.0  \nOctober 4, 2021 \n\u2022 Launch version \n \nHow to run the Procyon Office Productivity Benchmark on macOS  \nInstalling required software   \nMake sure you are connected to the Internet."
+  },
+  {
+    "id": 70,
+    "text": "Updating macOS   \n1. Ensure you are running the latest version of macOS. You can check the latest versions of \nmacOS on the Apple website. Installing Microsoft Office software   \n1. Install Microsoft Office 365 or Microsoft Office 2019 (or newer)."
+  },
+  {
+    "id": 71,
+    "text": "2. Open any Microsoft Office application and activate the license by either logging in with a suitable account or by entering a license key. 3. Open the Microsoft Excel, Word and PowerPoint apps at least once, then clear any \npopups or activation dialogs to prevent them from interfering with the Procyon office \nproductivity Benchmark. Installing the UL Procyon Office Productivity Benchmark   \n1."
+  },
+  {
+    "id": 72,
+    "text": "Install Procyon:  \nProcyon -macos -installer -x64-OfficeProductivity -<version>.pkg   \n2. You may be prompted to install Rosetta to continue the installation unless Rosetta is \nalready installed in the system. It can be installed with the command:   \nsoftwareupdate --install -rosetta   \n3. Follow the prompts to complete the installation. Note:   \nUL Procyon is installed in the \u2018/Library/UL/Procyon/OfficeProductivity\u2019 folder."
+  },
+  {
+    "id": 73,
+    "text": "Registering your Procyon license  \n1. Open Terminal. 2. In Terminal, navigate to the installation folder with:   \ncd /Library/UL/Procyon/OfficeProductivity   \n3. Register your license:  \n./UL_Procyon --register <license key>  \n \nFirst time Procyon setup  \nWe recommend that in order to correctly set up the required macOS security permissions, you \n\ufb01rst run the \u201cOffice Productivity \ufb01rst time setup\u201d process, then accept the requests for security \npermissions that appear in the \ufb01rst few minutes of the process."
+  },
+  {
+    "id": 74,
+    "text": "Usually on a system that has not any special permissions con\ufb01gured the Office Productivity \ufb01rst \ntime setup process goes as follows:   \n1. Using Terminal, run the con\ufb01guration tool in the Procyon install directory:   \n<./UL_Procyon - d office_productivity_\ufb01rst_time_setup.def   \n2. Accept the macOS permission requests that appear during the \ufb01rst- time process. 3. The last prompt will take you to Security & Permissions in Settings app."
+  },
+  {
+    "id": 75,
+    "text": "4. Check the box next to \u201cjava\u201d (on macOS Monterey) or \u201cTerminal\u201d (on macOS Ventura)   \n5. The \ufb01rst -time setup will end and show a prompt to retry the \ufb01rst -run setup if it did not \nhave all necessary security permissions. 6. Click \u2018Retry\u2019 in the \ufb01rst -time setup dialog."
+  },
+  {
+    "id": 76,
+    "text": "7. Accept any more permission requests that appear. 8. Necessary security permissions will have been set up once the \ufb01rst -time setup ends \nsuccessfully. You may have to run the setup several times to achieve this."
+  },
+  {
+    "id": 77,
+    "text": "Notes:   \n\u2022 In case you accidentally deny a permission instead of accepting it, you can go to \nSecurity & Permissions in Settings app to check boxes in Accessibility and Automation \ntabs   \n\u2022 If it all fails, you can start over by resetting all permissions by issuing the following command in Terminal:   \ntccutil reset All   \n\u2022 Some enterprise security systems may require you to \ufb01rst add Terminal app to \nhave Full disk access in Security & Permissions  \n \nRequired Permissions  \nMacOS 12 Monterey   \nOn macOS 12 Monterey, the required permissions are:   \n    Accessibility:   \n\u2022 /Library/UL/Procyon/jdk8u292 -b10- jre/Contents/Home/bin/java   \n    Automation:  \n\u2022 /Library/UL/Procyon/ jdk8u292- b10- jre/Contents/Home/bin/java   \n\u2022 Microsoft Word   \n\u2022 Microsoft PowerPoint   \n\u2022 Microsoft Excel   \n\u2022 System Events   \nMacOS 13 Ventura   \nOn macOS 13 Ventura, the required permissions are:   \n    Accessibility :  \n\u2022 Terminal   \n    Automation:  \n\u2022 Terminal   \n\u2022 Microsoft Word   \n\u2022 Microsoft PowerPoint   \n\u2022 Microsoft Excel   \n\u2022 System Events   \n \nRun the office productivity benchmark  \nOnce the benchmark is installed and permissions con\ufb01gured properly, it can be run as follows:   \n1. Open Terminal. 2. In Terminal, navigate to the installation folder with:  \ncd /Library/UL/Procyon/OfficeProductivity   \n3. To run the office productivity benchmark:  \n./UL_Procyon - d office_productivity.def - o \u201c<output path>/<output \ufb01le>.procyon -result\u201d  \nExample:  \n./UL_Procyon -d office_productivity.def -o \n\u201c/Users/ProcyonTestUser/Procyonresults/OfficeProductivityResult.procyon -result\u201d   \n Viewing your results  \nThe best method to process benchmark result data is to use the Office Productivity benchmark \nwith Testdriver Cloud."
+  },
+  {
+    "id": 78,
+    "text": "If you chose to not use Testdriver Cloud, you can extract the information from the results \ufb01le \nusing either of the following processes. Exporting with command line switch \nOption 1:  \n1. Use -export -csv or - export -xml command line switch to export results as an XML or CSV \n\ufb01le:   \n./UL_Procyon - d office_productivity.def - o <Export File Name>.zip -- export -csv ~/<Result File \nName>.csv   \nExample:  \n./UL_Procyon - d office_productivity.def - o ZipOfficeProductivityResult -- export -csv \nOfficeProductivityResult.csv   \nOption 2:  \n1. Use the - export -simple -CSV command line switch to export results as a single CSV \ufb01le:   \n./UL_Procyon - d office_productivity.def - o <Export File Name>.zip - l 2 -- export -simple -csv <CSV \nFile Name>.csv  \nExample:  \n./UL_Procyon - d office_productivity.def - o ZipOfficeProductivityResult.zip - l 2 -- export -simple -\ncsv OfficeProductivityResult.csv  \nExtracting Result.xml from the .procyon- result \ufb01le. (This is essentially the same as using -export -xml command)   \n1."
+  },
+  {
+    "id": 79,
+    "text": "Unzip the .procyon -result \ufb01le to extract the contents. Your benchmark results are \navailable in the \u2018Result.xml\u2019 \ufb01le. Once you have the CSV or XML \ufb01le, you can process the data with your preferred tools. Uninstalling UL Procyon Office Productivity  \nThe benchmark can be uninstalled as follows:   \n1. Open Terminal."
+  },
+  {
+    "id": 80,
+    "text": "2. In Terminal, navigate to the installation folder with:  \ncd /Library/UL/Procyon/OfficeProductivity   \n3. Run the uninstallation script:  \nsudo ./uninstall.sh   \nNote:   \nIt is not recommended to uninstall just by removing the installation folder, as it will leave the \nProcyon app installed in the operating system registers. This can cause issues when installing \nProcyon again later. Procyon\u00ae Scores  \nThe following interactive graph shows a distribution of PCs tested by UL Solutions as part of our \n\u2018Benchmarks Data for Retailers\u2019 service for Elkjop \u2013 A major European consumer electronics \nretailer."
+  },
+  {
+    "id": 81,
+    "text": "Along the X -axis are ranges of scores for tested devices, while along the y -axis \nrepresents is the percentage of devices that fall within that score range. Computers are further \ngrouped into \ufb01ve col ored performance tiers for each benchmark based on their suitability for \nthe use -case being tested. You can interact with the graph to view the representative hardware and usage scenario for each level. Score Range & Distribution of PC's Tested by UL Solutions  \n \n \n \n\n \nProcyon benchmarks measure performance in real -world tasks using industry standard \nsoftware, helping achieve up -to-date understanding of a system\u2019s performance. This distribution is based on a sample of approximately 250 devices should not be considered a \nrepresentative sample of PCs and laptops sold by Elkjop, nor is it a representative sample of \nPCs and laptops sold globally."
+  },
+  {
+    "id": 82,
+    "text": "Procyon AI Benchmarks offering  \n \nProcyon AI Image Generation  \nBenchmark GPU AI Image Generation Performance  \nThe Procyon AI Image Generation Benchmark provides a consistent, accurate, and \nunderstandable workload for measuring the inference performance of on -device AI \naccelerators. This benchmark was developed in partnership with multiple key industry members to ensure it produces fair and comparable results across all supported hardware. The benchmark includes three tests for measuring the performance from low power NPUs to \nhigh -end discrete graphics cards. The Stable Diffusion XL (FP16) test is our most demanding AI \ninference workload, and only the latest high -end GPUs meet the minimum re quirements to run \nit. For moderately powerful discrete GPUs, we recommend the Stable Diffusion 1.5 (FP16) test."
+  },
+  {
+    "id": 83,
+    "text": "Finally, we designed the Stable Diffusion 1.5 (INT8) test for low power devices using NPUs for AI \nworkloads. The Procyon AI Image Generation Benchmark can be con\ufb01gured to use a selection of different \ninference engines, and by default uses the recommended optimal inference engine for the \nsystem\u2019s hardware. Features  \n\u2022 A range of tests built around an image generation workload, using state -of-the-art neural \nnetworks. \u2022 Designed to measure the inference performance of a wide range of AI accelerators. \u2022 Benchmark with NVIDIA\u00ae TensorRT \u2122, Intel\u00ae OpenVINO \u2122, and ONNX with DirectML."
+  },
+  {
+    "id": 84,
+    "text": "\u2022 Verify inference engine implementation and compatibility. \u2022 Simple to set up and use via the Procyon application or via command -line. \u2022 Test with multiple versions of the Stable Diffusion AI model. \u2022 Compare up to 4 results side -by-side in the app. Benchmark details  \n \n\u2022 Stable diffusion, released in 2022, made using AI for text -to-image generation on \ntheir own hardware accessible for the everyday consumer."
+  },
+  {
+    "id": 85,
+    "text": "Given its ease of access, \nwide usage, and creative aspect, text -to-image generation quickly became one of the \nmost me morable AI use cases for the public. \u2022 The AI Image Generation Benchmark uses a set of standardized text prompts for a reliable and consistent AI image generation workload. Results provide an overall \nscore for easy comparison, as well as further detailed scores and the generated images for clos er inspections of performance and quality. Test Workload  Image resolution  Batch size  Steps  \nStable Diffusion XL (FP16) Heavy  1024 x 1024 1 100 \nStable Diffusion 1.5 (FP16)  Medium  512 x 512 4 100 \nStable Diffusion 1.5 (INT8)  Light  512 x 512 1 50 \n \nResults and insights  \n \nBenchmark scores  \nCompare AI Inference performance with two different versions of the Stable Diffusion model. Detailed scores  \nInspect generated images, and get detailed scores for each image generation batch."
+  },
+  {
+    "id": 86,
+    "text": "Hardware monitoring  \nGet detailed metrics on how CPU and GPU temperatures, clock speeds and usage change \nduring the benchmark run. Developed with Industry expertise  \n \nProcyon benchmarks are designed for industry, enterprise, and press use, with tests and features created speci\ufb01cally for professional users. The Procyon AI Image Generation \nBenchmark was designed and developed with industry partners through the UL Benchma rk \n\nDevelopment Program (BDP). The BDP is an initiative from UL Solutions that aims to create \nrelevant and impartial benchmarks by working in close cooperation with program members. Inference Engine Performance  \nWith the Procyon AI Image Generation Benchmark, you can measure the performance of \ndedicated AI processing hardware and verify inference engine implementation quality with tests \nbased on a heavy AI image generation workload."
+  },
+  {
+    "id": 87,
+    "text": "Designed for Professionals  \nWe created our Procyon AI Inference Benchmarks for engineering teams who need \nindependent, standardized tools for assessing the general AI performance of inference engine \nimplementations and dedicated hardware. Fast and easy to use  \nThe benchmark is easy to install and run \u2014no complicated con\ufb01guration is required. Run the \nbenchmark using the Procyon application or via command -line. View benchmark scores and \ncharts or export detailed result \ufb01les for further analysis. Procyon AI Inference Benchmark for Android  \nBenchmark AI performance and quality using NNAPI  \nMachine learning is powering exciting new features in mobile apps."
+  },
+  {
+    "id": 88,
+    "text": "Many devices now have \ndedicated hardware to accelerate the computationally intensive operations required for on -\ndevice inferencing. The Android Neural Networks API (NNAPI) provides a base l ayer for machine \nlearning frameworks to access the dedicated AI processing hardware in a device. The Procyon AI Inference Benchmark for Android measures the AI performance of Android \ndevices using NNAPI. The benchmark score re\ufb02ects both the speed and the accuracy of on -\ndevice inferencing operations. With the Procyon AI Inference Benchmark for Android , not only \ncan you measure the performance of dedicated AI processing hardware in Android devices, you \ncan also verify NNAPI implementation quality."
+  },
+  {
+    "id": 89,
+    "text": "The benchmark uses a range of popular, state -of-the-art neural networks running on the device \nto perform common machine -vision tasks. The benchmark runs on the device's dedicated AI -\nprocessing hardware via NNAPI. The benchmark also runs each test directly on the GPU and/or \nthe CPU for comparison. Features  \n\u2022 Tests based on common machine -vision tasks using state -of-the-art neural networks. \u2022 Measures both inference performance and output quality."
+  },
+  {
+    "id": 90,
+    "text": "\u2022 Compare NNAPI, CPU and GPU performance. \u2022 Verify NNAPI implementation and compatibility. \u2022 Optimize drivers for hardware accelerators. \u2022 Compare \ufb02oat - and integer -optimized model performance. \u2022 Simple to setup and use on a device or via ADB."
+  },
+  {
+    "id": 91,
+    "text": "NNAPI performance and quality  \nWith the Procyon AI Inference Benchmark for Android, you can measure the performance of \ndedicated AI processing hardware and verify NNAPI implementation quality with tests based on \ncommon machine -vision tasks. Designed for professionals  \nWe created the Procyon AI Inference Benchmark for Android for engineering teams who need independent, standardized tools for assessing the general AI performance of NNAPI \nimplementations and dedicated mobile hardware. Fast and easy to use  \nThe benchmark is easy to install and run \u2014no complicated con\ufb01guration required. Run the \nbenchmark on the device or via ADB. View benchmark scores, charts and rankings in the app or \nexport detailed result \ufb01les for further analysis."
+  },
+  {
+    "id": 92,
+    "text": "Neural network models  \n \nMobileNet V3  \n \nMobileNet  V3 is a compact visual recognition model that was created speci\ufb01cally for mobile \ndevices. The benchmark uses MobileNet  V3 to identify the subject of an image, taking an image \nas the input and outputting a list of probabilities for the content in  the image. The benchmark \nuses the large minimalistic variant of MobileNet V3. Inception V4  \n\n \nInception  V4 is a state -of-the-art model for image classi\ufb01cation tasks. Designed for accuracy, it \nis a much wider and deeper model than MobileNet."
+  },
+  {
+    "id": 93,
+    "text": "The benchmark uses Inception  V4 to \nidentify the subject of an image, taking an image as the input and outputting a list of \nprobabilities for the content identi\ufb01ed in the image. SSDLite MobileNet V3  \n \nSSDLite is an object detection model that aims to produce bounding boxes around objects in an \nimage. SSDLite uses MobileNet for feature extraction to enable real -time object detection on \nmobile devices. In the benchmark, the \ufb02oat version of SSDLite uses the small minimalistic \nMobileNet  V3 variant. The integer version uses the EdgeTPU variant of MobileNet V3."
+  },
+  {
+    "id": 94,
+    "text": "DeepLab V3  \n \n\nDeepLab is an image segmentation model that aims to cluster the pixels of an image that \nbelong to the same object class. Semantic image segmentation labels each region of the image \nwith a class of object. The benchmark uses MobileNet  V2 for feature extraction enabling fast \ninference with little difference in quality compared with larger models. Custom CNN \nThe benchmark includes a custom Convolutional Neural Network (CNN) based on the AlexNet \narchitecture. It is designed to test the performance of basic CNN operations and is trained on \nrandomly generated training data."
+  },
+  {
+    "id": 95,
+    "text": "It contains two Convolutional layers, w hich are followed by \nMax Pooling and Dropout layers, and one fully connected layer. Integer and \ufb02oat models  \nThe benchmark includes both \ufb02oat - and integer -optimized versions of each model. Each model \nruns in turn on all compatible hardware in the device. With NNAPI, the benchmark will use the \ndevice's dedicated AI- processing hardware, if supported. Float models use NNAPI or run \ndirectly on the CPU or  GPU."
+  },
+  {
+    "id": 96,
+    "text": "Integer models use NNAPI or run directly on the CPU. Procyon AI Computer Vision Benchmark \n \nBenchmark AI performance using various inference engines  \nMachine learning applications are rapidly growing as it becomes more accessible to integrate \nand deploy AI solutions into everyday applications. With the demand for faster machine \nlearning performance, major hardware vendors have been optimizing their inference engines to \nprovide the best possible performance on their hardware. The Procyon AI Computer Vision Benchmark gives insights into how AI inference engines perform on your Windows PC or Apple Mac, helping you decide which engines to support to \nachieve the best performance. The benchmark features several AI inference engines from \ndifferent vendors, with benchmark scores re\ufb02ecting the performance of on -device inferencing \noperations."
+  },
+  {
+    "id": 97,
+    "text": "In the benchmark, common machine -vision tasks are executed using a range of popular, state -\nof-the-art neural networks. Measure AI accelerator performance by comparing it with the same \noperations run on the CPU or GPU. Features  \n\u2022 Tests based on common machine -vision tasks using state -of-the-art neural networks. \u2022 Measure inference performance using the CPU, GPU or dedicated AI accelerators. \u2022 Benchmark with NVIDIA\u00ae TensorRT \u2122, Intel\u00ae OpenVINO \u2122, Qualcomm\u00ae SNPE, Microsoft\u00ae \nWindows ML, and Apple\u00ae Core ML \u2122."
+  },
+  {
+    "id": 98,
+    "text": "\u2022 Verify inference engine implementation and compatibility. \u2022 Optimize drivers for hardware accelerators. \u2022 Compare \ufb02oat and integer -optimized model performance. \u2022 Simple to set up and use via the Procyon application or via command -line. Inference engine performance  \n\u2022 With the Procyon AI Computer Vision Benchmark, you can measure the performance of \ndedicated AI processing hardware and verify inference engine implementation quality \nwith tests based on common machine -vision tasks."
+  },
+  {
+    "id": 99,
+    "text": "Designed for professionals  \n\u2022 We created the Procyon AI Computer Vision Benchmark for engineering teams who \nneed independent, standardized tools for assessing the general AI performance of \ninference engine implementations and dedicated hardware. Fast and easy to use  \n\u2022 The benchmark is easy to install and run \u2014no complicated con\ufb01guration is required. Run \nthe benchmark using the Procyon application or via command -line. View benchmark \nscores and charts or export detailed result \ufb01les for further analysis. Neural network models  \n \nMobileNet V3  \n\u2022 MobileNet \u202fV3 is a compact visual recognition model that was created specifically for \nmobile devices."
+  },
+  {
+    "id": 100,
+    "text": "The benchmark uses MobileNet \u202fV3 to identify the subject of an \nimage, taking an image as the input and outputting a list of probabilities for the \ncontent in the image. The benchmark uses the large minimalistic variant of \nMobileNet \u202fV3. Inception V4  \n\u2022 Inception \u202fV4 is a state -of-the-art model for image classification tasks. Designed for \naccuracy, it is a much wider and deeper model than MobileNet. The benchmark uses Inception \u202fV4 to identify the subject of an image, taking an image as the input and \noutputting a list of probabilities for the content identified in the image."
+  },
+  {
+    "id": 101,
+    "text": "YOLO V3  \n\u2022 YOLO, which stands for You Only Look Once, is an object detection model that aims to identify the location of objects in an image. The benchmark uses YOLO V3 to \nproduce bounding boxes around objects with probabilities on the confidence of \neach detection. DeepLab V3  \n\u2022 DeepLab is an image segmentation model that aims to cluster the pixels of an image \nthat belong to the same object class. Semantic image segmentation labels each \nregion of the image with a class of object. The benchmark uses MobileNet \u202fV2 for \nfeature extraction enabling fast inference with little difference in quality compared \nwith larger models."
+  },
+  {
+    "id": 102,
+    "text": "Real -ESRGAN  \n\u2022 Real -ESRGAN is a super- resolution model trained on synthetic data for increasing the \nresolution of an image, reconstructing a higher resolution image from a lower \nresolution counterpart. The model used in the benchmark is the general image \nvariant of Real- ERSGAN, and upscales a 250x250 image to an 1000x1000 image. ResNet 50  \n\u2022 ResNet 50 is an image classification model that provides a novel way of adding more \nconvolutional layers with the use of residual blocks. Its release enabled the training \nof deep neural networks previously not possible. The benchmark uses ResNet 50 to \niden tify image subjects, outputting a list of probabilities for the content identified in \nthe image."
+  },
+  {
+    "id": 103,
+    "text": "Integer and float models  \n\u2022 The benchmark includes both float - and integer- optimized versions of each model. Each model runs in turn on all compatible hardware in the device. Select the device \nand inference precision for each runtime to compare performance between integer \nand float m odels. Results and insights  \n \n \nBenchmark scores  \nCompare AI Inference performance with integer and \ufb02oat models using a CPU, GPU or \ndedicated AI accelerator. Detailed scores  \nSee inference times for each neural network test when using your selected inference engine and \nprocessing unit."
+  },
+  {
+    "id": 104,
+    "text": "Hardware monitoring  \nGet detailed metrics on how CPU and GPU temperatures, clock speeds and usage changes \nduring the benchmark run. UL Benchmarks for retailers  \nPC performance data for retailers  \nWhen shopping for a Windows PC or Mac computer, consumers can get overwhelmed by the multitude of available choices. Complex speci\ufb01cations indicate each computer\u2019s strengths and \ncapabilities, but such technical information can prove difficult to understan d, especially when \ncomparing multiple computers. The challenge is to demonstrate a computer\u2019s actual \nperformance in an instantly meaningful way. At UL Solutions, we offer industry -leading benchmarks that make it easier for everyone to \nunderstand the performance of a PC or Mac computer."
+  },
+  {
+    "id": 105,
+    "text": "A benchmark tests how well a product performs a function and how that performance compares across similar products . UL Solutions \ncustom benchmarks test computers and reduce a computer\u2019s speci\ufb01cation sheet to an easily understood numbered score. The higher the score, the better the performance. It\u2019s that simple. Simplifying complex speci\ufb01cations into user -friendly statistics  \nUL Solutions began developing industry- standard computer benchmarks in the 1990s."
+  },
+  {
+    "id": 106,
+    "text": "Since \nthen, our benchmarks have evolved to perform accurate assessments of PCs and Macs as well \nas notebooks, tablets and smartphones. Millions of people around the world tru st our \nbenchmarks; they are accurate and user -friendly and they come from UL Solutions, a trusted \nindustry partner with more than 120 years of experience in product testing, certi\ufb01cation and \nveri\ufb01cation services. UL Solutions benchmarks cover a variety of performance capabilities for computers and smart \ndevices used at the office and in the home, for work and for play. Customers can easily \nunderstand our benchmark data because sales associates can easily explain it. Even \nnontechnical customers can feel empowered to understand how a computer will perform the \ntasks speci\ufb01c to their needs."
+  },
+  {
+    "id": 107,
+    "text": "Will it run smoothly while multitasking or handling large \ufb01les? Will \na laptop battery last throughout the day? Consumers who unde rstand computer performance \nmake better purchasing decisions. How can UL Solutions benchmarks help your business? For retail businesses, our easily understood benchmarks can help increase sales, reduce \nreturns and improve customer satisfaction."
+  },
+  {
+    "id": 108,
+    "text": "We already work with many international consumer \nelectronics retailers, helping them achieve their goals and maximize custome r experience. Our \nBenchmark team can create custom benchmarks to \ufb01t your business needs. We can thoroughly test and assess your products under controlled conditions in dedicated laboratories, or we can \nhelp you set up and run your own testing facilities w ith processes that deliver accurate, \nrepeatable test results. Our benchmark data comes in tailored packages, making it much easier for your customers to con\ufb01dently choose and buy a new PC, Mac, tablet or smartphone and allowing your sales staff \nto recommend and sell devices with greater information and insight into each product on the \nshelf. Your customers can also download our complimentary benchmarking software to test an \nexisting device or computer at home before coming into a store, which can highlight the value of \nan upgrade or replacement."
+  },
+  {
+    "id": 109,
+    "text": "What benchmark services do we offer? As electronics retailers already know, gamers are a huge part of the consumer computer market, and game performance depends heavily on computer and processor capabilities. Our \nmost popular benchmark measures and tests video game performance. PC performance is incredibly important for gamers, and new games constantly raise the bar for \nvisually rich, immersive experiences. We conduct game performance testing on a broad \nselection of hardware that covers the range of popular CPUs and GPUs found in modern gaming \ncomputers."
+  },
+  {
+    "id": 110,
+    "text": "To date, our dedicated laboratories have assessed more than 50 of the world\u2019s newest, most \npopular games on a variety of computers. We test each game at different resolution settings, \nfrom 1080p medium and 1080p ultra to 1440p ultra, 4K UHD medium and 4K U HD ultra, pushing \neach game and computer system to its technical limits. In your retail store, you can explain this performance data and demonstrate the expected frame rates for each gaming computer. Gaming categorization  \n\nGamers fear that a new PC won\u2019t be able to play the latest games or deliver the experiences \nthey want, but how do they know for sure? Even expert consumers may struggle to understand \ncomplex technical speci\ufb01cations, confusing naming schemes and manufactur er jargon."
+  },
+  {
+    "id": 111,
+    "text": "Measuring and grading computer and game speci\ufb01cations according to speci\ufb01c categories can \nhelp clear the air. Product categories can help your customers \ufb01nd the gaming computers that \nbest meet their needs and budgets. Gaming computer benchmarks slot performance into different categories, from abilities adequate to basic computing needs or full -blown artistic creation to meeting the needs of a \ncasual or elite gamer. Color -coded categories and numbered scores give consume rs and sales \nassociates a good idea of which platforms work best for speci\ufb01c games, enabling improved in -\nstore presentation by grouping products with similar performance. You can guide consumers to what they really need and want rather than what is simply  technically possible."
+  },
+  {
+    "id": 112,
+    "text": "Beyond the gaming world  \nWe designed our benchmarks to be accurate, neutral and relevant, and they extend beyond \ngaming to the many uses of both home and office computers. Our benchmarking capabilities \ninclude real -world scenario testing on professional applications like Microsoft  365 and Adobe. Our multiplatform Procyon\u00ae benchmark suite, for example, runs benchmark tests focusing on \noffice productivity, photo and video editing, battery life, AI inference and more. We designed our benchmarks and performance around common activities and real -world \napplications. We can provide data on everyday device usage as well as gaming- speci\ufb01c \nstatistics."
+  },
+  {
+    "id": 113,
+    "text": "Our performance data combined with categorization gives your customers a mo re \naccessible way to choose a PC or Apple Mac computer. Instead of trying to compare \ncomplicated speci\ufb01cations, consumers can choose a device based on the activities that are \nmost important to them, and it\u2019s all summed up in a simple score. Office Productivity Score \u202fGuide   \nOffice Productivity Score Level 1 | Range < 3000  \nRepresentative hardware: Low end Celerons and Ryzens    \n  \nIntel\u00ae Celeron\u00ae Processor N4500, Intel\u00ae UHD Graphics   \nTypical usage: Light document editing and web browsing  \n  \nOffice Productivity Score Level 2 | Range 3000 -  4500   \nRepresentative hardware: U and G -CPUs with iGPU  \nAMD Ryzen \u2122 3 7320U, AMD Radeon \u2122 610M   \nTypical usage:   Light office productivity, comfortable web experience   \n  \nOffice Productivity Score Level 3 | Range 4500 -  5500  \nRepresentative hardware: P -CPUs with lower end dGPUs    \nIntel\u00ae Core \u2122 i7-1355U Processor, Intel\u00ae Iris\u00ae Xe Graphics   \nTypical usage:   Suits most Office productivity needs   \n  \nOffice Productivity Score Level 4 | Range 5500 -  7000   \nRepresentative hardware: desktop and H -CPUs; dGPUs;    \nAMD Ryzen \u2122 7 7840HS, AMD Radeon \u2122 780M, NVDIA GeForce RTX \u2122 4060 Laptop GPU   \nTypical usage:   Heavy Excel computations and solvers   \n  \nOffice Productivity Score Level 5 | Range 7000 >  \nRepresentative hardware: High -end CPU + high -end GPU  \nIntel\u00ae Core \u2122 i9-13900KF Processor, NVDIA GeForce RTX \u2122 4090  \nTypical usage:   High end workstations   \n  \n  \nOffice Productivity MP Score \u202fGuide   \n  \nOffice Productivity MP Score Level 1 | Range < 100000   \nRepresentative hardware: Low end Celerons and Ryzens    \n\n  \nIntel\u00ae Celeron\u00ae Processor N4500, Intel\u00ae UHD Graphics   \nTypical usage: Light document editing and web browsing  \n  \nOffice Productivity MP Score Level 2 | Range 100000 -  150000  \nRepresentative hardware: U and G -CPUs with iGPU  \nAMD Ryzen \u2122 5 7520U, AMD Radeon \u2122 610M   \nTypical usage:   Light office productivity, comfortable web experience   \n  \nOffice Productivity MP Score Level 3 | Range 150000 -  180000  \nRepresentative hardware: P -CPUs with lower end dGPUs    \nIntel\u00ae Core \u2122 i5-12450H Processor, Intel\u00ae UHD Graphics   \nTypical usage:   Suits most Office productivity needs   \n  \nOffice Productivity MP Score Level 4 | Range 180000 -  220000  \nRepresentative hardware: desktop and H -CPUs; dGPUs;    \nAMD Ryzen \u2122 7 7840HS, AMD Radeon \u2122 780M, NVDIA GeForce RTX \u2122 4060 Laptop GPU   \nTypical usage:   Heavy Excel computations and solvers   \n  \nOffice Productivity MP Score Level 5 | Range 220000 >  \nRepresentative hardware: High -end CPU + high -end GPU  \nIntel\u00ae Core \u2122 i9-13900KF Processor, NVDIA GeForce RTX \u2122 4090   \nTypical usage:   High end workstations   \n  \n  \nPlease note that Procyon scores and categories are not static and will change year -on-year \nbased on hardware and the application versions being tested. Four categories for Photo Editing:  \nLevel 1 | Range 2400 - 4100  \nRepresentative hardware: Intel\u00ae Core \u2122 i7-1355U Processor, Intel\u00ae Iris\u00ae Xe Graphics   \nTypical usage: Simple photo editing -  e.g., Image \ufb01lters for social media, cropping, color \nadjustments. Level 2 | Range 4101 - 5100  \nRepresentative hardware: AMD Ryzen \u2122 5 7530U, AMD Radeon \u2122 Graphics   \nTypical usage:   Casual photo editing - e.g., Light photo manipulation, small -scale batch editing \nof photos."
+  },
+  {
+    "id": 114,
+    "text": "Level 3 | Range 5101 - 6400  \nRepresentative hardware: Intel\u00ae Core \u2122 i7-13700H Processor, NVDIA GeForce RTX \u2122 4050 Laptop \nGPU   \nTypical usage:   Enthusiast content creation -  e.g., heavy image manipulation, GPU accelerated \nimage processing, large -scale batch editing of RAW photos. Level 4 | Range 6401 - 8000  \nRepresentative hardware: Intel\u00ae Core \u2122 i7-13700HX Processor, NVDIA GeForce RTX \u2122 4070 \nLaptop GPU  \n\nTypical usage:   Professional content creation   \n  \nLevel 5 | Range 8000 - onwards   \nRepresentative hardware: AMD Ryzen \u2122 7 7700X, AMD Radeon \u2122 RX 7900 XT   \nTypical usage:   Next -generation hardware. Five categories for Video Editing:   \n  \nLevel 1 | Range 1 -2200   \nRepresentative hardware: Intel\u00ae Core \u2122 i5-1335U Processor, Intel\u00ae Iris\u00ae Xe Graphics   \nTypical usage: Light video editing, MP4 editing. Level 2 | Range 2201 -3500  \nRepresentative hardware: AMD Ryzen \u2122 7 7840U, AMD Radeon \u2122 780M   \nTypical usage:   Full HD video editing H.265/HEVC editing. Level 3 | Range 3501 -5200  \nRepresentative hardware: Intel\u00ae Core \u2122 i7-13620H Processor, NVDIA GeForce RTX \u2122 4050 Laptop \nGPU   \nTypical usage: Enthusiast 4K video editing H.265/HEVC editing."
+  },
+  {
+    "id": 115,
+    "text": "Level 4 | Range 5200 -6500  \nRepresentative hardware: AMD Ryzen \u2122 9 7940HS, NVDIA GeForce RTX \u2122 4070 Laptop GPU   \nTypical usage:   High -resolution real time video editing up to 8K resolution   \n  \nLevel 5 | Range 6500 - onwards   \nRepresentative hardware: Intel\u00ae Core \u2122 i9-13900HX Processor, NVDIA GeForce RTX \u2122 4090 \nLaptop GPU  \nTypical usage:   Movies and professional videography projects up to 12K resolution"
+  }
+]

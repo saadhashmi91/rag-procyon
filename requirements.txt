@@ -1,0 +1,14 @@
+faiss-cpu
+sentence-transformers
+numpy
+PyPDF2
+nltk
+transformers
+optimum[openvino,nncf]
+optimum-intel
+openvino
+accelerate
+nncf
+openvino-genai
+openvino-tokenizers[transformers]
+hf_xet

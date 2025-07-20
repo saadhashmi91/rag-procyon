@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<net name="detokenizer" version="11">
+	<layers>
+		<layer id="0" name="Parameter_10283" type="Parameter" version="opset1">
+			<data shape="?,?" element_type="i64" />
+			<output>
+				<port id="0" precision="I64" names="Parameter_10283">
+					<dim>-1</dim>
+					<dim>-1</dim>
+				</port>
+			</output>
+		</layer>
+		<layer id="1" name="Convert_10478" type="Convert" version="opset1">
+			<data destination_type="i32" />
+			<input>
+				<port id="0" precision="I64">
+					<dim>-1</dim>
+					<dim>-1</dim>
+				</port>
+			</input>
+			<output>
+				<port id="1" precision="I32">
+					<dim>-1</dim>
+					<dim>-1</dim>
+				</port>
+			</output>
+		</layer>
+		<layer id="2" name="Constant_10285" type="Const" version="opset1">
+			<data element_type="i32" shape="128256" offset="0" size="513024" />
+			<output>
+				<port id="0" precision="I32">
+					<dim>128256</dim>
+				</port>
+			</output>
+		</layer>
+		<layer id="3" name="Constant_10287" type="Const" version="opset1">
+			<data element_type="i32" shape="128256" offset="513024" size="513024" />
+			<output>
+				<port id="0" precision="I32">
+					<dim>128256</dim>
+				</port>
+			</output>
+		</layer>
+		<layer id="4" name="Constant_10289" type="Const" version="opset1">
+			<data element_type="u8" shape="838768" offset="1026048" size="838768" />
+			<output>
+				<port id="0" precision="U8">
+					<dim>838768</dim>
+				</port>
+			</output>
+		</layer>
+		<layer id="5" name="Slice_10294" type="Const" version="opset1">
+			<data element_type="i32" shape="256" offset="1864816" size="1024" />
+			<output>
+				<port id="0" precision="I32">
+					<dim>256</dim>
+				</port>
+			</output>
+		</layer>
+		<layer id="6" name="VocabDecoder_10296" type="VocabDecoder" version="extension">
+			<data skip_tokens="" />
+			<input>
+				<port id="0" precision="I32">
+					<dim>-1</dim>
+					<dim>-1</dim>
+				</port>
+				<port id="1" precision="I32">
+					<dim>128256</dim>
+				</port>
+				<port id="2" precision="I32">
+					<dim>128256</dim>
+				</port>
+				<port id="3" precision="U8">
+					<dim>838768</dim>
+				</port>
+				<port id="4" precision="I32">
+					<dim>256</dim>
+				</port>
+			</input>
+			<output>
+				<port id="5" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="6" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="7" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="8" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="9" precision="U8">
+					<dim>-1</dim>
+				</port>
+			</output>
+		</layer>
+		<layer id="7" name="FuzeRagged_10297" type="FuzeRagged" version="extension">
+			<input>
+				<port id="0" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="1" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="2" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="3" precision="I32">
+					<dim>-1</dim>
+				</port>
+			</input>
+			<output>
+				<port id="4" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="5" precision="I32">
+					<dim>-1</dim>
+				</port>
+			</output>
+		</layer>
+		<layer id="8" name="UTF8Validate_10298" type="UTF8Validate" version="extension">
+			<data replace_mode="true" />
+			<input>
+				<port id="0" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="1" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="2" precision="U8">
+					<dim>-1</dim>
+				</port>
+			</input>
+			<output>
+				<port id="3" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="4" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="5" precision="U8">
+					<dim>-1</dim>
+				</port>
+			</output>
+		</layer>
+		<layer id="9" name="Constant_10300" type="Const" version="opset1">
+			<data element_type="u8" shape="51" offset="1865840" size="51" />
+			<output>
+				<port id="0" precision="U8">
+					<dim>51</dim>
+				</port>
+			</output>
+		</layer>
+		<layer id="10" name="Constant_10302" type="Const" version="opset1">
+			<data element_type="u8" shape="2" offset="1865891" size="2" />
+			<output>
+				<port id="0" precision="U8">
+					<dim>2</dim>
+				</port>
+			</output>
+		</layer>
+		<layer id="11" name="RegexNormalization_10303" type="RegexNormalization" version="extension">
+			<data global_replace="true" />
+			<input>
+				<port id="0" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="1" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="2" precision="U8">
+					<dim>-1</dim>
+				</port>
+				<port id="3" precision="U8">
+					<dim>51</dim>
+				</port>
+				<port id="4" precision="U8">
+					<dim>2</dim>
+				</port>
+			</input>
+			<output>
+				<port id="5" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="6" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="7" precision="U8">
+					<dim>-1</dim>
+				</port>
+			</output>
+		</layer>
+		<layer id="12" name="StringTensorPack_10304" type="StringTensorPack" version="opset15">
+			<input>
+				<port id="0" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="1" precision="I32">
+					<dim>-1</dim>
+				</port>
+				<port id="2" precision="U8">
+					<dim>-1</dim>
+				</port>
+			</input>
+			<output>
+				<port id="3" precision="STRING" names="Result_10305,string_output">
+					<dim>-1</dim>
+				</port>
+			</output>
+		</layer>
+		<layer id="13" name="Result_10305" type="Result" version="opset1" output_names="Result_10305,string_output">
+			<input>
+				<port id="0" precision="STRING">
+					<dim>-1</dim>
+				</port>
+			</input>
+		</layer>
+	</layers>
+	<edges>
+		<edge from-layer="0" from-port="0" to-layer="1" to-port="0" />
+		<edge from-layer="1" from-port="1" to-layer="6" to-port="0" />
+		<edge from-layer="2" from-port="0" to-layer="6" to-port="1" />
+		<edge from-layer="3" from-port="0" to-layer="6" to-port="2" />
+		<edge from-layer="4" from-port="0" to-layer="6" to-port="3" />
+		<edge from-layer="5" from-port="0" to-layer="6" to-port="4" />
+		<edge from-layer="6" from-port="5" to-layer="7" to-port="0" />
+		<edge from-layer="6" from-port="6" to-layer="7" to-port="1" />
+		<edge from-layer="6" from-port="7" to-layer="7" to-port="2" />
+		<edge from-layer="6" from-port="8" to-layer="7" to-port="3" />
+		<edge from-layer="6" from-port="9" to-layer="8" to-port="2" />
+		<edge from-layer="7" from-port="5" to-layer="8" to-port="1" />
+		<edge from-layer="7" from-port="4" to-layer="8" to-port="0" />
+		<edge from-layer="8" from-port="3" to-layer="11" to-port="0" />
+		<edge from-layer="8" from-port="4" to-layer="11" to-port="1" />
+		<edge from-layer="8" from-port="5" to-layer="11" to-port="2" />
+		<edge from-layer="9" from-port="0" to-layer="11" to-port="3" />
+		<edge from-layer="10" from-port="0" to-layer="11" to-port="4" />
+		<edge from-layer="11" from-port="5" to-layer="12" to-port="0" />
+		<edge from-layer="11" from-port="6" to-layer="12" to-port="1" />
+		<edge from-layer="11" from-port="7" to-layer="12" to-port="2" />
+		<edge from-layer="12" from-port="3" to-layer="13" to-port="0" />
+	</edges>
+	<rt_info>
+		<add_attention_mask value="True" />
+		<add_prefix_space />
+		<add_special_tokens value="True" />
+		<bos_token_id value="128000" />
+		<chat_template value="{{- bos_token }}&#10;{%- if custom_tools is defined %}&#10;    {%- set tools = custom_tools %}&#10;{%- endif %}&#10;{%- if not tools_in_user_message is defined %}&#10;    {%- set tools_in_user_message = true %}&#10;{%- endif %}&#10;{%- if not date_string is defined %}&#10;    {%- set date_string = &quot;26 Jul 2024&quot; %}&#10;{%- endif %}&#10;{%- if not tools is defined %}&#10;    {%- set tools = none %}&#10;{%- endif %}&#10;&#10;{#- This block extracts the system message, so we can slot it into the right place. #}&#10;{%- if messages[0]['role'] == 'system' %}&#10;    {%- set system_message = messages[0]['content']|trim %}&#10;    {%- set messages = messages[1:] %}&#10;{%- else %}&#10;    {%- set system_message = &quot;&quot; %}&#10;{%- endif %}&#10;&#10;{#- System message + builtin tools #}&#10;{{- &quot;&lt;|start_header_id|>system&lt;|end_header_id|>\n\n&quot; }}&#10;{%- if builtin_tools is defined or tools is not none %}&#10;    {{- &quot;Environment: ipython\n&quot; }}&#10;{%- endif %}&#10;{%- if builtin_tools is defined %}&#10;    {{- &quot;Tools: &quot; + builtin_tools | reject('equalto', 'code_interpreter') | join(&quot;, &quot;) + &quot;\n\n&quot;}}&#10;{%- endif %}&#10;{{- &quot;Cutting Knowledge Date: December 2023\n&quot; }}&#10;{{- &quot;Today Date: &quot; + date_string + &quot;\n\n&quot; }}&#10;{%- if tools is not none and not tools_in_user_message %}&#10;    {{- &quot;You have access to the following functions. To call a function, please respond with JSON for a function call.&quot; }}&#10;    {{- 'Respond in the format {&quot;name&quot;: function name, &quot;parameters&quot;: dictionary of argument name and its value}.' }}&#10;    {{- &quot;Do not use variables.\n\n&quot; }}&#10;    {%- for t in tools %}&#10;        {{- t | tojson(indent=4) }}&#10;        {{- &quot;\n\n&quot; }}&#10;    {%- endfor %}&#10;{%- endif %}&#10;{{- system_message }}&#10;{{- &quot;&lt;|eot_id|>&quot; }}&#10;&#10;{#- Custom tools are passed in a user message with some extra guidance #}&#10;{%- if tools_in_user_message and not tools is none %}&#10;    {#- Extract the first user message so we can plug it in here #}&#10;    {%- if messages | length != 0 %}&#10;        {%- set first_user_message = messages[0]['content']|trim %}&#10;        {%- set messages = messages[1:] %}&#10;    {%- else %}&#10;        {{- raise_exception(&quot;Cannot put tools in the first user message when there's no first user message!&quot;) }}&#10;{%- endif %}&#10;    {{- '&lt;|start_header_id|>user&lt;|end_header_id|>\n\n' -}}&#10;    {{- &quot;Given the following functions, please respond with a JSON for a function call &quot; }}&#10;    {{- &quot;with its proper arguments that best answers the given prompt.\n\n&quot; }}&#10;    {{- 'Respond in the format {&quot;name&quot;: function name, &quot;parameters&quot;: dictionary of argument name and its value}.' }}&#10;    {{- &quot;Do not use variables.\n\n&quot; }}&#10;    {%- for t in tools %}&#10;        {{- t | tojson(indent=4) }}&#10;        {{- &quot;\n\n&quot; }}&#10;    {%- endfor %}&#10;    {{- first_user_message + &quot;&lt;|eot_id|>&quot;}}&#10;{%- endif %}&#10;&#10;{%- for message in messages %}&#10;    {%- if not (message.role == 'ipython' or message.role == 'tool' or 'tool_calls' in message) %}&#10;        {{- '&lt;|start_header_id|>' + message['role'] + '&lt;|end_header_id|>\n\n'+ message['content'] | trim + '&lt;|eot_id|>' }}&#10;    {%- elif 'tool_calls' in message %}&#10;        {%- if not message.tool_calls|length == 1 %}&#10;            {{- raise_exception(&quot;This model only supports single tool-calls at once!&quot;) }}&#10;        {%- endif %}&#10;        {%- set tool_call = message.tool_calls[0].function %}&#10;        {%- if builtin_tools is defined and tool_call.name in builtin_tools %}&#10;            {{- '&lt;|start_header_id|>assistant&lt;|end_header_id|>\n\n' -}}&#10;            {{- &quot;&lt;|python_tag|>&quot; + tool_call.name + &quot;.call(&quot; }}&#10;            {%- for arg_name, arg_val in tool_call.arguments | items %}&#10;                {{- arg_name + '=&quot;' + arg_val + '&quot;' }}&#10;                {%- if not loop.last %}&#10;                    {{- &quot;, &quot; }}&#10;                {%- endif %}&#10;                {%- endfor %}&#10;            {{- &quot;)&quot; }}&#10;        {%- else  %}&#10;            {{- '&lt;|start_header_id|>assistant&lt;|end_header_id|>\n\n' -}}&#10;            {{- '{&quot;name&quot;: &quot;' + tool_call.name + '&quot;, ' }}&#10;            {{- '&quot;parameters&quot;: ' }}&#10;            {{- tool_call.arguments | tojson }}&#10;            {{- &quot;}&quot; }}&#10;        {%- endif %}&#10;        {%- if builtin_tools is defined %}&#10;            {#- This means we're in ipython mode #}&#10;            {{- &quot;&lt;|eom_id|>&quot; }}&#10;        {%- else %}&#10;            {{- &quot;&lt;|eot_id|>&quot; }}&#10;        {%- endif %}&#10;    {%- elif message.role == &quot;tool&quot; or message.role == &quot;ipython&quot; %}&#10;        {{- &quot;&lt;|start_header_id|>ipython&lt;|end_header_id|>\n\n&quot; }}&#10;        {%- if message.content is mapping or message.content is iterable %}&#10;            {{- message.content | tojson }}&#10;        {%- else %}&#10;            {{- message.content }}&#10;        {%- endif %}&#10;        {{- &quot;&lt;|eot_id|>&quot; }}&#10;    {%- endif %}&#10;{%- endfor %}&#10;{%- if add_generation_prompt %}&#10;    {{- '&lt;|start_header_id|>assistant&lt;|end_header_id|>\n\n' }}&#10;{%- endif %}&#10;" />
+		<clean_up_tokenization_spaces />
+		<detokenizer_input_type value="i64" />
+		<eos_token_id value="128009" />
+		<handle_special_tokens_with_re />
+		<max_length />
+		<number_of_inputs value="1" />
+		<openvino_tokenizers_version value="2025.2.0.1-567-7885335c24b" />
+		<openvino_version value="2025.2.0-19140-c01cd93e24d-releases/2025/2" />
+		<original_post_processor_template value="{&quot;type&quot;: &quot;Sequence&quot;, &quot;processors&quot;: [{&quot;type&quot;: &quot;ByteLevel&quot;, &quot;add_prefix_space&quot;: true, &quot;trim_offsets&quot;: false, &quot;use_regex&quot;: true}, {&quot;type&quot;: &quot;TemplateProcessing&quot;, &quot;single&quot;: [{&quot;SpecialToken&quot;: {&quot;id&quot;: &quot;&lt;|begin_of_text|>&quot;, &quot;type_id&quot;: 0}}, {&quot;Sequence&quot;: {&quot;id&quot;: &quot;A&quot;, &quot;type_id&quot;: 0}}], &quot;pair&quot;: [{&quot;SpecialToken&quot;: {&quot;id&quot;: &quot;&lt;|begin_of_text|>&quot;, &quot;type_id&quot;: 0}}, {&quot;Sequence&quot;: {&quot;id&quot;: &quot;A&quot;, &quot;type_id&quot;: 0}}, {&quot;SpecialToken&quot;: {&quot;id&quot;: &quot;&lt;|begin_of_text|>&quot;, &quot;type_id&quot;: 1}}, {&quot;Sequence&quot;: {&quot;id&quot;: &quot;B&quot;, &quot;type_id&quot;: 1}}], &quot;special_tokens&quot;: {&quot;&lt;|begin_of_text|>&quot;: {&quot;id&quot;: &quot;&lt;|begin_of_text|>&quot;, &quot;ids&quot;: [128000], &quot;tokens&quot;: [&quot;&lt;|begin_of_text|>&quot;]}}}]}" />
+		<original_tokenizer_class value="&lt;class 'transformers.tokenization_utils_fast.PreTrainedTokenizerFast'>" />
+		<processed_post_processor_template value="{&quot;single&quot;: {&quot;ids&quot;: [128000, -1], &quot;type_ids&quot;: [0, 0]}, &quot;pair&quot;: {&quot;ids&quot;: [128000, -1, 128000, -2], &quot;type_ids&quot;: [0, 0, 1, 1]}}" />
+		<sentencepiece_version value="0.2.0" />
+		<skip_special_tokens value="True" />
+		<streaming_detokenizer value="False" />
+		<tiktoken_version value="0.9.0" />
+		<tokenizer_output_type value="i64" />
+		<tokenizers_version value="0.21.2" />
+		<transformers_version value="4.51.3" />
+		<use_max_padding value="False" />
+		<use_sentencepiece_backend value="False" />
+		<utf8_replace_mode value="replace" />
+		<with_detokenizer value="True" />
+	</rt_info>
+</net>

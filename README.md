@@ -107,6 +107,13 @@ python convert_model_openvino.py
 
 ## 🚀 Querying the System
 
+### Pre-requisites
+Download the model weights from the drive links below and place in the
+**models/llama3_int4** project folder:
+- [OpenVINO 4-bit quantized model](https://drive.google.com/file/d/1Qq6Nijms4s_j7iXsAfvFzOEtzfqblIzG/view?usp=drive_link)
+- [OpenVINO model tokenizer](https://drive.google.com/file/d/1UWlA67CRprbXmfXBkRnJr83FOupozK_X/view?usp=drive_link)
+- [OpenVINO model de-tokenizer](https://drive.google.com/file/d/1yy4VQmewK4ML0SOCMukCCxgzHwRfWJsr/view?usp=drive_link)
+
 ### ✅ One-liner Demo (Linux/macOS)
 
 ```bash

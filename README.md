@@ -88,7 +88,16 @@ python ingest_pdf.py  # Includes chunking + FAISS in one script
 
 ### 🔹 Step 3 – Download & Quantize LLaMA 3.1 (INT4)
 
+
+Windows:
+```bat
+set HF_TOKEN=<Replace with your Huggingface token>
+python convert_model_openvino.py
+```
+
+Linux/macOS:
 ```bash
+export HF_TOKEN=<Replace with your Huggingface token>
 python convert_model_openvino.py
 ```
 
